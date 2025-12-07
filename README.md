@@ -14,10 +14,13 @@
 Telegram：**@shnwazx**
 
 ---
-
 ## 🌐 Motto / モットー
 **“Build fast. Build clean. Build smart.”**  
 **「速く、美しく、スマートに。」**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youbtech01&label=Profile%20views&color=0e75b6&style=flat" alt="youbtech01" /> </p>
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shnwazx.bsky.social)       [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/PersonalityLazy3427) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SHNWAZXC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shnwaz44@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shnwazxc)
