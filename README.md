@@ -50,7 +50,3 @@ Telegram：**@shnwazx**
 ---
 [![](https://visitcount.itsvg.in/api?id=SHNWAZX&icon=0&color=0)](https://visitcount.itsvg.in)
 
- # 🏆 Website Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
